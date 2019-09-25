@@ -1,2 +1,2 @@
 # nanami
-cccccaaaaa
+cccccxxxxxx
